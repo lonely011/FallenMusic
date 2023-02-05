@@ -73,7 +73,6 @@ gp_buttons = [
     ],
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
-]
 
 
 helpmenu = [
