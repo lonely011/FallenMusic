@@ -17,7 +17,7 @@ _**𝙰𝚅𝙰𝙸𝙻𝙰𝙱𝙻𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8a38f66826c2ea5e97724.jpg">
+  <img src="https://telegra.ph/file/1f58eabada97af126e7b3.jpg">
 </p>
 
 <p align="center">
